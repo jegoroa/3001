@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    padding: 30px;
+    background-color: lightsalmon;
+    border: 5px dashed black;
+    border-radius: 20px;
+}
+
+header img{
+    border: 5px double black;
+    border-radius: 20px;
+}
+
+header a{
+    text-decoration: none;
+    color:black;
+    background-color: white;
+    padding: 20px;
+    border: 5px solid lightsalmon;
+    border-radius: 20px;
+}
+
+h1, h2{
+    background-color: lightsalmon;
+    text-align: center;
+    border-bottom: 10px dashed white;
+    border-top: 10px dotted black;
+}
+
+footer{
+    padding: 30px;
+    background-color: rgb(189, 131, 109);
+    border: 5px dashed black;
+    border-radius: 20px;
+}
+
+footer p{
+    font-size: 18px;
+    
+    background-color: lightskyblue;
+    text-align: right;
+}
+
+nav{
+    background-color: lightskyblue;
+    padding: 20px;
+}
+
+nav a{
+    margin: 10px;
+    text-decoration: none;
+    color:black;
+    background-color: white;
+    padding: 10px;
+    border: 5px solid lightsalmon;
+    border-radius: 20px;
+}
